@@ -13,3 +13,5 @@ I'm so hungry!
 Master test
 
 Fast forward test
+
+Fix bug 101
